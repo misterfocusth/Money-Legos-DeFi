@@ -1,0 +1,27 @@
+{
+  "name": "Money-Legos-DeFi",
+  "version": "1.0.0",
+  "description": "A DeFi (Decentralized Finance) Project with Money Legos Library",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterfocusth/Money-Legos-DeFi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterfocusth/Money-Legos-DeFi/issues"
+  },
+  "homepage": "https://github.com/misterfocusth/Money-Legos-DeFi#readme",
+  "dependencies": {
+    "@studydefi/money-legos": "^2.4.2",
+    "ethers": "^5.1.4"
+  }
+}
